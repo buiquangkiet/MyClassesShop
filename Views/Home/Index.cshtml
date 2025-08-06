@@ -1,0 +1,45 @@
+﻿@model MyClassesShop.ViewModels.HomeViewModel
+@{
+    ViewData["Title"] = "Trang chủ";
+}
+<div class="container py-4">
+
+    <!-- Welcome Hero Section -->
+    <section class="py-5 text-center text-white" style="background: linear-gradient(to right, #007bff, #00c6ff);">
+        <div class="container">
+            <h1 class="display-5 fw-bold">🕶️ Chào mừng đến với <span class="text-warning">MyClassesShop</span></h1>
+            <p class="lead">Nơi bạn tìm thấy những chiếc kính thời trang và phong cách nhất.</p>
+            <a asp-area="Identity" asp-page="/Account/Register" class="btn btn-light btn-lg me-2">
+                <i class="bi bi-person-plus"></i> Đăng ký ngay
+            </a>
+            <a asp-area="Identity" asp-page="/Account/Login" class="btn btn-outline-light btn-lg">
+                <i class="bi bi-box-arrow-in-right"></i> Đăng nhập
+            </a>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="py-5 bg-light">
+        <div class="container">
+            <h2 class="text-center mb-4 text-primary fw-bold">✨ Vì sao chọn chúng tôi?</h2>
+            <div class="row text-center">
+                <div class="col-md-4 mb-4">
+                    <i class="bi bi-truck fs-1 text-success mb-3"></i>
+                    <h5>Giao hàng nhanh</h5>
+                    <p>Miễn phí vận chuyển toàn quốc với đơn từ 500.000₫</p>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <i class="bi bi-shield-check fs-1 text-warning mb-3"></i>
+                    <h5>Chất lượng đảm bảo</h5>
+                    <p>Sản phẩm chính hãng 100%, bảo hành minh bạch</p>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <i class="bi bi-emoji-smile fs-1 text-info mb-3"></i>
+                    <h5>Hỗ trợ tận tâm</h5>
+                    <p>Đội ngũ hỗ trợ trực tuyến 24/7, luôn sẵn sàng giúp bạn</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</div>

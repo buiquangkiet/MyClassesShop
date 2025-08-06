@@ -1,0 +1,26 @@
+﻿@model MyClassesShop.Models.Discount
+@{
+    ViewData["Title"] = "Thêm mã giảm giá";
+}
+
+<h2>Thêm mã giảm giá</h2>
+
+<form asp-action="Create">
+    <div class="mb-3">
+        <label asp-for="Code" class="form-label">Mã</label>
+        <input asp-for="Code" class="form-control" />
+        <span asp-validation-for="Code" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Percentage" class="form-label">Phần trăm giảm</label>
+        <input asp-for="Percentage" class="form-control" />
+        <span asp-validation-for="Percentage" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="ExpiryDate" class="form-label">Ngày hết hạn</label>
+        <input asp-for="ExpiryDate" class="form-control" type="date" />
+        <span asp-validation-for="ExpiryDate" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-success">Lưu</button>
+    <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+</form>

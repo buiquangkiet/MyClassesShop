@@ -1,0 +1,31 @@
+﻿@model IEnumerable<MyClassesShop.Models.Discount>
+@{
+    ViewData["Title"] = "Mã giảm giá";
+}
+
+<h2>Mã giảm giá</h2>
+<a class="btn btn-primary mb-2" asp-action="Create">Thêm mới</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Mã</th>
+            <th>Phần trăm</th>
+            <th>Ngày hết hạn</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var d in Model)
+        {
+            <tr>
+                <td>@d.Code</td>
+                <td>@d.Percentage %</td>
+                <td>@d.ExpiryDate.ToString("dd/MM/yyyy")</td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@d.DiscountId" class="btn btn-danger btn-sm">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

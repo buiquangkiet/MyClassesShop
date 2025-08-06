@@ -1,0 +1,45 @@
+﻿@model IEnumerable<MyClassesShop.Models.CartItem>
+@{
+    ViewData["Title"] = "Giỏ hàng";
+}
+
+<h2>🛒 Giỏ hàng của bạn</h2>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">Giỏ hàng trống!</div>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Sản phẩm</th>
+                <th>Hình ảnh</th>
+                <th>Giá</th>
+                <th>Số lượng</th>
+                <th>Tổng</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Product.Name</td>
+                    <td><img src="@item.Product.ImageUrl" width="80" /></td>
+                    <td>@item.Product.Price.ToString("N0") ₫</td>
+                    <td>@item.Quantity</td>
+                    <td>@(item.Quantity* item.Product.Price).ToString("N0") ₫</td>
+                    <td>
+                        <a asp-action="Remove" asp-route-id="@item.CartItemId" class="btn btn-sm btn-danger">X</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="text-end">
+        <a asp-controller="Checkout" asp-action="Index" class="btn btn-success">💳 Thanh toán</a>
+    </div>
+}

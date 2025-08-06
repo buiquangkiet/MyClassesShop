@@ -1,0 +1,31 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model IEnumerable<IdentityUser>
+@{
+    ViewData["Title"] = "Quản lý người dùng";
+}
+
+<h2 class="text-primary mb-3">👥 Quản lý người dùng</h2>
+
+<table class="table table-bordered table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>Email</th>
+            <th>Xác nhận Email</th>
+            <th>Thao tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Email</td>
+                <td>@(user.EmailConfirmed ? "✔️" : "❌")</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@user.Id" class="btn btn-sm btn-info">Chi tiết</a>
+                    <a asp-action="Delete" asp-route-id="@user.Id" class="btn btn-sm btn-danger"
+                       onclick="return confirm('Bạn chắc chắn muốn xoá người dùng này?');">Xoá</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

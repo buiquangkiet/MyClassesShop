@@ -1,0 +1,55 @@
+﻿@model MyClassesShop.Models.Product
+
+@{
+    ViewData["Title"] = "Xoá sản phẩm";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-sm">
+        <div class="card-header bg-danger text-white">
+            <h3 class="mb-0">🗑️ Xác nhận xoá sản phẩm</h3>
+        </div>
+        <div class="card-body">
+            <h5 class="text-danger">Bạn có chắc chắn muốn xoá sản phẩm sau?</h5>
+            <hr />
+
+            <dl class="row">
+                <dt class="col-sm-3">Tên sản phẩm</dt>
+                <dd class="col-sm-9">@Model.Name</dd>
+
+                <dt class="col-sm-3">Mô tả</dt>
+                <dd class="col-sm-9">@Model.Description</dd>
+
+                <dt class="col-sm-3">Giá</dt>
+                <dd class="col-sm-9 text-danger fw-bold">@Model.Price.ToString("N0") ₫</dd>
+
+                <dt class="col-sm-3">Tồn kho</dt>
+                <dd class="col-sm-9">@Model.StockQuantity</dd>
+
+                <dt class="col-sm-3">Màu sắc</dt>
+                <dd class="col-sm-9">@Model.Color</dd>
+
+                <dt class="col-sm-3">Loại</dt>
+                <dd class="col-sm-9">@Model.Type</dd>
+
+                <dt class="col-sm-3">Danh mục</dt>
+                <dd class="col-sm-9">@Model.Category?.Name</dd>
+
+                <dt class="col-sm-3">Hình ảnh</dt>
+                <dd class="col-sm-9">
+                    <img src="@Model.ImageUrl" alt="@Model.Name" class="img-thumbnail" style="max-width: 150px;" />
+                </dd>
+            </dl>
+
+            <form asp-action="Delete">
+                <input type="hidden" asp-for="ProductId" />
+                <button type="submit" class="btn btn-danger">
+                    <i class="bi bi-trash"></i> Xoá sản phẩm
+                </button>
+                <a asp-action="Index" class="btn btn-secondary ms-2">
+                    ← Quay lại
+                </a>
+            </form>
+        </div>
+    </div>
+</div>

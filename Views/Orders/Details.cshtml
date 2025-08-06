@@ -1,0 +1,32 @@
+﻿@model MyClassesShop.Models.Order
+@{
+    ViewData["Title"] = "Chi tiết đơn hàng";
+}
+
+<h2 class="mb-4">📄 Chi tiết đơn hàng #@Model.OrderId</h2>
+
+<p><strong>Ngày đặt:</strong> @Model.OrderDate.ToString("dd/MM/yyyy HH:mm")</p>
+<p><strong>Trạng thái:</strong> @Model.Status</p>
+<p><strong>Tổng tiền:</strong> <span class="text-danger fw-bold">@Model.TotalAmount.ToString("N0") ₫</span></p>
+
+<table class="table table-bordered table-hover mt-4">
+    <thead class="table-secondary">
+        <tr>
+            <th>Sản phẩm</th>
+            <th>Đơn giá</th>
+            <th>Số lượng</th>
+            <th>Thành tiền</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.OrderDetails)
+        {
+            <tr>
+                <td>@item.Product.Name</td>
+                <td>@item.UnitPrice.ToString("N0") ₫</td>
+                <td>@item.Quantity</td>
+                <td class="text-danger">@((item.UnitPrice * item.Quantity).ToString("N0")) ₫</td>
+            </tr>
+        }
+    </tbody>
+</table>

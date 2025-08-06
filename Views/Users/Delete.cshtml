@@ -1,0 +1,42 @@
+﻿@model MyClassesShop.ViewModels.UserDetailViewModel
+
+@{
+    ViewData["Title"] = "Xoá người dùng";
+}
+
+<div class="container mt-4">
+    <h2 class="text-danger fw-bold">🗑️ Xoá người dùng</h2>
+    <p class="lead">Bạn có chắc chắn muốn xoá người dùng sau không?</p>
+    <hr />
+
+    <dl class="row">
+        <dt class="col-sm-3">📧 Email</dt>
+        <dd class="col-sm-9">@Model.User.Email</dd>
+
+        <dt class="col-sm-3">👤 Tên đăng nhập</dt>
+        <dd class="col-sm-9">@Model.User.UserName</dd>
+
+        <dt class="col-sm-3">🔐 Vai trò</dt>
+        <dd class="col-sm-9">
+            @if (Model.Roles.Any())
+            {
+                <ul class="list-unstyled mb-0">
+                    @foreach (var role in Model.Roles)
+                    {
+                        <li><span class="badge bg-info">@role</span></li>
+                    }
+                </ul>
+            }
+            else
+            {
+                <span class="text-muted">Không có vai trò</span>
+            }
+        </dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="User.Id" />
+        <button type="submit" class="btn btn-danger">✔️ Xác nhận xoá</button>
+        <a asp-action="Index" class="btn btn-secondary">❌ Huỷ</a>
+    </form>
+</div>

@@ -1,0 +1,49 @@
+﻿@model MyClassesShop.ViewModels.UserDetailViewModel
+
+@{
+    ViewData["Title"] = "Chi tiết người dùng";
+}
+
+<div class="container mt-4">
+    <h2 class="text-primary fw-bold">👤 Chi tiết người dùng</h2>
+    <hr />
+
+    <dl class="row">
+        <dt class="col-sm-3">🆔 ID</dt>
+        <dd class="col-sm-9">@Model.User.Id</dd>
+
+        <dt class="col-sm-3">📧 Email</dt>
+        <dd class="col-sm-9">@Model.User.Email</dd>
+
+        <dt class="col-sm-3">✔️ Đã xác nhận Email</dt>
+        <dd class="col-sm-9">@(Model.User.EmailConfirmed ? "Có" : "Chưa")</dd>
+
+        <dt class="col-sm-3">👤 Tên đăng nhập</dt>
+        <dd class="col-sm-9">@Model.User.UserName</dd>
+
+        <dt class="col-sm-3">📱 Số điện thoại</dt>
+        <dd class="col-sm-9">@Model.User.PhoneNumber ?? "(Chưa cập nhật)"</dd>
+
+        <dt class="col-sm-3">🔐 Vai trò</dt>
+        <dd class="col-sm-9">
+            @if (Model.Roles.Any())
+            {
+                <ul class="list-unstyled mb-0">
+                    @foreach (var role in Model.Roles)
+                    {
+                        <li><span class="badge bg-info">@role</span></li>
+                    }
+                </ul>
+            }
+            else
+            {
+                <span class="text-muted">Không có vai trò</span>
+            }
+        </dd>
+
+        <dt class="col-sm-3">📅 Ngày tạo</dt>
+        <dd class="col-sm-9">@Model.CreatedDate.ToString("dd/MM/yyyy HH:mm")</dd>
+    </dl>
+
+    <a asp-action="Index" class="btn btn-secondary">⬅️ Quay lại danh sách</a>
+</div>

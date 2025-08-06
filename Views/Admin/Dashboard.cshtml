@@ -1,0 +1,43 @@
+﻿@model MyClassesShop.ViewModels.DashboardViewModel
+
+@{
+    ViewData["Title"] = "Bảng điều khiển Admin";
+}
+
+<div class="container py-4">
+    <h2 class="mb-4 text-primary fw-bold">📊 Bảng điều khiển quản trị</h2>
+
+    <div class="row g-4">
+        <div class="col-md-4">
+            <div class="card shadow border-0">
+                <div class="card-body text-center">
+                    <h5 class="card-title">🛒 Tổng đơn hàng</h5>
+                    <p class="display-5 fw-bold text-success">@Model.TotalOrders</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow border-0">
+                <div class="card-body text-center">
+                    <h5 class="card-title">🕶️ Sản phẩm</h5>
+                    <p class="display-5 fw-bold text-primary">@Model.TotalProducts</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow border-0">
+                <div class="card-body text-center">
+                    <h5 class="card-title">👤 Người dùng</h5>
+                    <p class="display-5 fw-bold text-warning">@Model.TotalUsers</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="mt-5">
+        <a href="/Products" class="btn btn-outline-primary me-2">Quản lý sản phẩm</a>
+        <a href="/Categories" class="btn btn-outline-secondary">Quản lý danh mục</a>
+    </div>
+</div>

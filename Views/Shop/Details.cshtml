@@ -1,0 +1,24 @@
+﻿@model MyClassesShop.Models.Product
+
+@{
+    ViewData["Title"] = "Chi tiết sản phẩm";
+}
+
+<div class="container py-4">
+    <div class="row">
+        <div class="col-md-6">
+            <img src="@Model.ImageUrl" alt="@Model.Name" class="img-fluid" style="max-height: 400px; object-fit: contain;" />
+        </div>
+        <div class="col-md-6">
+            <h2 class="fw-bold">@Model.Name</h2>
+            <p class="text-danger fw-bold fs-5">@Model.Price.ToString("N0") ₫</p>
+            <p class="mb-3">@Model.Description</p>
+            <p><strong>Danh mục:</strong> @Model.Category?.Name</p>
+            <form asp-controller="Cart" asp-action="AddToCart" method="post">
+                <input type="hidden" name="productId" value="@Model.ProductId" />
+                <button class="btn btn-success mt-2">🛒 Thêm vào giỏ hàng</button>
+            </form>
+            <a asp-action="Index" class="btn btn-outline-secondary mt-2">⬅ Quay lại</a>
+        </div>
+    </div>
+</div>

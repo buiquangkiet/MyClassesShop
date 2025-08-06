@@ -1,0 +1,1061 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\controllers\\discountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:controllers\\discountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\models\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:models\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\views\\discounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:views\\discounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\views\\discounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:views\\discounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\models\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:models\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\views\\admin\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:views\\admin\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\views\\admin\\editorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:views\\admin\\editorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\views\\orders\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:views\\orders\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\myclassesshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:myclassesshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\views\\checkout\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:views\\checkout\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\viewmodels\\userdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:viewmodels\\userdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\migrations\\20250628024327_addfullecommercemodels.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:migrations\\20250628024327_addfullecommercemodels.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\migrations\\20250628023051_add-table-product-and-category.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:migrations\\20250628023051_add-table-product-and-category.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\migrations\\20250628084011_add-productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:migrations\\20250628084011_add-productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\migrations\\20250628024327_addfullecommercemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:migrations\\20250628024327_addfullecommercemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\migrations\\20250628023051_add-table-product-and-category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:migrations\\20250628023051_add-table-product-and-category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\migrations\\20250629121214_addcolortypeisfeaturedtoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:migrations\\20250629121214_addcolortypeisfeaturedtoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\migrations\\20250630123928_addusertoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:migrations\\20250630123928_addusertoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|c:\\users\\buiqu\\desktop\\myclassesshop\\migrations\\20250630162631_addproductimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C7F9D1-B652-4616-9E73-5D0EAB99A08C}|MyClassesShop.csproj|solutionrelative:migrations\\20250630162631_addproductimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:30:31.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T10:16:31.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAcAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T03:08:17.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-30T17:05:01.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DiscountsController.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Controllers\\DiscountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DiscountsController.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Controllers\\DiscountsController.cs",
+              "RelativeToolTip": "Controllers\\DiscountsController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:17:03.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Data\\DbInitializer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T02:37:22.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T02:26:58.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T11:54:40.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAwwI0AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T02:55:38.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Controllers\\ShopController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T10:52:08.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T02:25:47.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T02:26:34.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvzYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:40:29.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T05:30:25.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Checkout\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Checkout\\Index.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Checkout\\Index.cshtml",
+              "RelativeToolTip": "Views\\Checkout\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T12:08:41.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T11:10:54.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAADwv18AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T05:04:38.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Shop\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shop\\Details.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Shop\\Details.cshtml",
+              "RelativeToolTip": "Views\\Shop\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T10:57:45.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Models\\ProductListViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProductListViewModel.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Models\\ProductListViewModel.cs",
+              "RelativeToolTip": "Models\\ProductListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T08:34:32.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Discounts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Discounts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Discounts\\Create.cshtml",
+              "RelativeToolTip": "Views\\Discounts\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T14:18:21.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Controllers\\CheckoutController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CheckoutController.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Controllers\\CheckoutController.cs",
+              "RelativeToolTip": "Controllers\\CheckoutController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:07:15.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20250630162631_AddProductImages.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Migrations\\20250630162631_AddProductImages.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250630162631_AddProductImages.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Migrations\\20250630162631_AddProductImages.cs",
+              "RelativeToolTip": "Migrations\\20250630162631_AddProductImages.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T16:26:31.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T11:32:52.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T11:36:14.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Discounts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Discounts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Discounts\\Index.cshtml",
+              "RelativeToolTip": "Views\\Discounts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T14:18:08.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA9wB4AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:53:35.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20250630123928_AddUserToOrder.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Migrations\\20250630123928_AddUserToOrder.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250630123928_AddUserToOrder.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Migrations\\20250630123928_AddUserToOrder.cs",
+              "RelativeToolTip": "Migrations\\20250630123928_AddUserToOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:39:28.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Models\\Discount.cs",
+              "RelativeDocumentMoniker": "Models\\Discount.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Models\\Discount.cs",
+              "RelativeToolTip": "Models\\Discount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T02:41:43.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "Views\\Users\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T11:56:35.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Admin\\Orders.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Admin\\Orders.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Orders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T13:28:02.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EditOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Admin\\EditOrder.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\EditOrder.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Admin\\EditOrder.cshtml",
+              "RelativeToolTip": "Views\\Admin\\EditOrder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T13:28:49.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Details.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Orders\\Details.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T12:41:25.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Orders\\History.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\History.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Orders\\History.cshtml",
+              "RelativeToolTip": "Views\\Orders\\History.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T12:41:07.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MyClassesShop.csproj",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\MyClassesShop.csproj",
+              "RelativeDocumentMoniker": "MyClassesShop.csproj",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\MyClassesShop.csproj",
+              "RelativeToolTip": "MyClassesShop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T13:15:33.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T11:14:59.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T10:13:18.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Users\\Delete.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T11:56:54.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T02:40:43.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Checkout\\Success.cshtml",
+              "RelativeDocumentMoniker": "Views\\Checkout\\Success.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Checkout\\Success.cshtml",
+              "RelativeToolTip": "Views\\Checkout\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T12:09:39.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T02:41:13.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\ViewModels\\UserDetailViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UserDetailViewModel.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\ViewModels\\UserDetailViewModel.cs",
+              "RelativeToolTip": "ViewModels\\UserDetailViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:59:28.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T10:55:48.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAgwH0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T08:53:10.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T11:18:00.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T05:06:05.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T11:20:07.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20250629121214_AddColorTypeIsFeaturedToProduct.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Migrations\\20250629121214_AddColorTypeIsFeaturedToProduct.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250629121214_AddColorTypeIsFeaturedToProduct.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Migrations\\20250629121214_AddColorTypeIsFeaturedToProduct.cs",
+              "RelativeToolTip": "Migrations\\20250629121214_AddColorTypeIsFeaturedToProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T12:12:14.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "ViewModels\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T10:32:45.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T11:29:54.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\ViewModels\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\ViewModels\\DashboardViewModel.cs",
+              "RelativeToolTip": "ViewModels\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:33:49.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20250628023051_add-table-product-and-category.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Migrations\\20250628023051_add-table-product-and-category.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250628023051_add-table-product-and-category.Designer.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Migrations\\20250628023051_add-table-product-and-category.Designer.cs",
+              "RelativeToolTip": "Migrations\\20250628023051_add-table-product-and-category.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:15:25.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADwv0IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T10:08:23.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T08:52:43.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T02:25:14.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Models\\CartItem.cs",
+              "RelativeToolTip": "Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T02:40:23.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20250628024327_AddFullECommerceModels.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Migrations\\20250628024327_AddFullECommerceModels.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250628024327_AddFullECommerceModels.Designer.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Migrations\\20250628024327_AddFullECommerceModels.Designer.cs",
+              "RelativeToolTip": "Migrations\\20250628024327_AddFullECommerceModels.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:15:33.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T05:03:54.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20250628084011_add-productlistviewmodel.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Migrations\\20250628084011_add-productlistviewmodel.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250628084011_add-productlistviewmodel.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Migrations\\20250628084011_add-productlistviewmodel.cs",
+              "RelativeToolTip": "Migrations\\20250628084011_add-productlistviewmodel.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T08:40:11.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:15:39.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T02:55:33.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20250628024327_AddFullECommerceModels.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Migrations\\20250628024327_AddFullECommerceModels.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250628024327_AddFullECommerceModels.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Migrations\\20250628024327_AddFullECommerceModels.cs",
+              "RelativeToolTip": "Migrations\\20250628024327_AddFullECommerceModels.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T02:43:27.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "Models\\Invoice.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Models\\Invoice.cs",
+              "RelativeToolTip": "Models\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T02:42:11.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-28T02:52:43.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20250628023051_add-table-product-and-category.cs",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Migrations\\20250628023051_add-table-product-and-category.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250628023051_add-table-product-and-category.cs",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\Migrations\\20250628023051_add-table-product-and-category.cs",
+              "RelativeToolTip": "Migrations\\20250628023051_add-table-product-and-category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T02:30:52.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\buiqu\\Desktop\\MyClassesShop\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-28T02:27:15.045Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

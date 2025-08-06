@@ -1,0 +1,98 @@
+﻿@model MyClassesShop.Models.ProductListViewModel
+
+@{
+    ViewData["Title"] = "Quản lý sản phẩm";
+}
+
+<div class="container mt-4">
+    <!-- Header -->
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2 class="text-primary fw-bold">📦 Quản lý sản phẩm</h2>
+        <a asp-action="Create" class="btn btn-success shadow">
+            <i class="bi bi-plus-circle me-1"></i> Thêm sản phẩm
+        </a>
+    </div>
+
+    <!-- Bộ lọc tìm kiếm -->
+    <form method="get" class="row g-3 mb-4 shadow-sm p-3 bg-light rounded">
+        <div class="col-md-4">
+            <input type="text" name="searchTerm" value="@Model.SearchTerm" class="form-control" placeholder="🔍 Tìm theo tên sản phẩm..." />
+        </div>
+        <div class="col-md-4">
+            <select name="categoryId" class="form-select" onchange="this.form.submit()">
+                <option value="">-- Tất cả danh mục --</option>
+                @foreach (var category in Model.Categories)
+                {
+                    if (Model.SelectedCategoryId == category.CategoryId)
+                    {
+                        <option value="@category.CategoryId" selected>@category.Name</option>
+                    }
+                    else
+                    {
+                        <option value="@category.CategoryId">@category.Name</option>
+                    }
+                }
+            </select>
+        </div>
+        <div class="col-md-4">
+            <button type="submit" class="btn btn-outline-primary w-100">
+                🔎 Tìm kiếm
+            </button>
+        </div>
+    </form>
+
+    <!-- Danh sách sản phẩm -->
+    <div class="table-responsive shadow-sm">
+        <table class="table table-hover table-bordered align-middle text-center">
+            <thead class="table-dark">
+                <tr>
+                    <th>Ảnh</th>
+                    <th>Tên</th>
+                    <th>Giá</th>
+                    <th>Tồn kho</th>
+                    <th>Màu</th>
+                    <th>Loại</th>
+                    <th>Danh mục</th>
+                    <th>Hành động</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Products == null || !Model.Products.Any())
+                {
+                    <tr>
+                        <td colspan="8" class="text-muted">Không tìm thấy sản phẩm.</td>
+                    </tr>
+                }
+                else
+                {
+                    foreach (var item in Model.Products)
+                    {
+                        <tr>
+                            <td>
+                                <img src="@item.ImageUrl" class="img-thumbnail" style="width: 80px; height: 80px; object-fit: cover;" />
+                            </td>
+                            <td class="fw-bold">@item.Name</td>
+                            <td class="text-danger">@item.Price.ToString("N0") ₫</td>
+                            <td>@item.StockQuantity</td>
+                            <td>@item.Color</td>
+                            <td>@item.Type</td>
+                            <td>@item.Category?.Name</td>
+                            <td>
+                                <a asp-action="Details" asp-route-id="@item.ProductId" class="btn btn-sm btn-outline-info me-1">
+                                    <i class="bi bi-eye"></i>
+                                </a>
+                                <a asp-action="Edit" asp-route-id="@item.ProductId" class="btn btn-sm btn-outline-warning me-1">
+                                    <i class="bi bi-pencil-square"></i>
+                                </a>
+                                <a asp-action="Delete" asp-route-id="@item.ProductId" class="btn btn-sm btn-outline-danger" 
+                                   onclick="return confirm('Xác nhận xoá sản phẩm?');">
+                                    <i class="bi bi-trash"></i>
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

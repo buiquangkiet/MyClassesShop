@@ -1,0 +1,44 @@
+﻿@model IEnumerable<MyClassesShop.Models.Order>
+@{
+    ViewData["Title"] = "Quản lý đơn hàng";
+}
+
+<h2>📦 Danh sách đơn hàng</h2>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <i class="bi bi-check-circle-fill"></i> @TempData["SuccessMessage"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<table class="table table-bordered table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>Mã đơn</th>
+            <th>Khách hàng</th>
+            <th>Ngày đặt</th>
+            <th>Trạng thái</th>
+            <th>Tổng</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.OrderId</td>
+                <td>@order.User?.Email</td>
+                <td>@order.OrderDate.ToString("dd/MM/yyyy HH:mm")</td>
+                <td>@order.Status</td>
+                <td class="text-danger">@order.TotalAmount.ToString("N0") ₫</td>
+                <td>
+                    <a asp-controller="Admin" asp-action="EditOrder" asp-route-id="@order.OrderId" class="btn btn-warning btn-sm">Trạng thái</a>
+
+                    <a asp-action="ExportInvoice" asp-route-id="@order.OrderId" class="btn btn-success btn-sm">In hóa đơn</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

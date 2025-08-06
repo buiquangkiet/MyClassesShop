@@ -1,0 +1,70 @@
+﻿@model IEnumerable<MyClassesShop.Models.CartItem>
+@{
+    ViewData["Title"] = "Thanh toán";
+}
+
+<h2 class="text-primary">🔒 Thanh toán</h2>
+<hr />
+
+@if (TempData["Warning"] != null)
+{
+    <div class="alert alert-warning">@TempData["Warning"]</div>
+}
+
+
+<form asp-action="PlaceOrder" method="post">
+    <div class="row mb-3">
+        <div class="col-md-6">
+            <label class="form-label">Họ và tên</label>
+            <input name="fullName" class="form-control" required />
+        </div>
+        <div class="col-md-6">
+            <label class="form-label">Số điện thoại</label>
+            <input name="phone" class="form-control" required />
+        </div>
+        <div class="col-12 mt-2">
+            <label class="form-label">Địa chỉ giao hàng</label>
+            <textarea name="address" class="form-control" required></textarea>
+        </div>
+        <div class="mb-3 row">
+            <div class="col-md-6">
+                <input type="text" id="discountCode" name="discountCode" class="form-control" placeholder="Nhập mã giảm giá" />
+            </div>
+            <div class="col-md-3">
+                <button type="button" id="applyDiscount" class="btn btn-outline-primary">Áp dụng</button>
+            </div>
+        </div>
+
+        <div id="discountMessage" class="text-danger mb-2"></div>
+
+    </div>
+
+    <h4 class="mt-4">🛍️ Sản phẩm trong giỏ</h4>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Tên</th>
+                <th>SL</th>
+                <th>Giá</th>
+                <th>Tổng</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Product.Name</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.Product.Price.ToString("N0") ₫</td>
+                    <td>@(item.Product.Price* item.Quantity).ToString("N0") ₫</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="text-end mb-3">
+        <strong class="text-danger">Tổng: @Model.Sum(i => i.Product.Price * i.Quantity).ToString("N0") ₫</strong>
+    </div>
+
+    <button type="submit" class="btn btn-primary">✅ Đặt hàng</button>
+</form>
